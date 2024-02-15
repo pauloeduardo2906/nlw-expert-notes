@@ -61,4 +61,4 @@ npm run dev
 
 # Licença
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/pauloeduardo2906/nlw-expert-notes/LICENSE "LICENSE") file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/pauloeduardo2906/nlw-expert-notes/blob/main/LICENSE.txt "LICENSE") file for details.
